@@ -3,49 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://pre-profedu.netlify.app/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.org/blog/</loc>
+    <loc>https://pre-profedu.netlify.app/blog/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.org/blog/thirdpost/</loc>
+    <loc>https://pre-profedu.netlify.app/blog/thirdpost/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.org/blog/secondpost/</loc>
+    <loc>https://pre-profedu.netlify.app/blog/secondpost/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.org/blog/firstpost/</loc>
+    <loc>https://pre-profedu.netlify.app/blog/firstpost/</loc>
     <lastmod>2025-03-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.org/participants/</loc>
+    <loc>https://pre-profedu.netlify.app/participants/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.org/resources/</loc>
+    <loc>https://pre-profedu.netlify.app/resources/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.org/about/</loc>
+    <loc>https://pre-profedu.netlify.app/about/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

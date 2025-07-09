@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Проектная деятельность</title>
-    <link>https://example.org/</link>
+    <link>https://pre-profedu.netlify.app/</link>
     <description>Recent content on Проектная деятельность</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>© Формирование предпрофессиональной образовательной среды в Московском Политехе 2025 </copyright>
-    <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://pre-profedu.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Наука для жизни</title>
-      <link>https://example.org/blog/thirdpost/</link>
+      <link>https://pre-profedu.netlify.app/blog/thirdpost/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/blog/thirdpost/</guid>
+      <guid>https://pre-profedu.netlify.app/blog/thirdpost/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/blog/thirdpost/feature_science_for_life-4.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://pre-profedu.netlify.app/blog/thirdpost/feature_science_for_life-4.jpg" />
     </item>
     
     <item>
       <title>День открытых дверей</title>
-      <link>https://example.org/blog/secondpost/</link>
+      <link>https://pre-profedu.netlify.app/blog/secondpost/</link>
       <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/blog/secondpost/</guid>
+      <guid>https://pre-profedu.netlify.app/blog/secondpost/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/blog/secondpost/feature_dod_mpu-1.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://pre-profedu.netlify.app/blog/secondpost/feature_dod_mpu-1.jpg" />
     </item>
     
     <item>
       <title>Национальная-технологическая олимпиада</title>
-      <link>https://example.org/blog/firstpost/</link>
+      <link>https://pre-profedu.netlify.app/blog/firstpost/</link>
       <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/blog/firstpost/</guid>
+      <guid>https://pre-profedu.netlify.app/blog/firstpost/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/blog/firstpost/feature_nto-1.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://pre-profedu.netlify.app/blog/firstpost/feature_nto-1.jpg" />
     </item>
     
     <item>
       <title>Команда проекта</title>
-      <link>https://example.org/participants/</link>
+      <link>https://pre-profedu.netlify.app/participants/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/participants/</guid>
+      <guid>https://pre-profedu.netlify.app/participants/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/participants/feature_participants.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://pre-profedu.netlify.app/participants/feature_participants.jpg" />
     </item>
     
     <item>
       <title>Полезные ресурсы</title>
-      <link>https://example.org/resources/</link>
+      <link>https://pre-profedu.netlify.app/resources/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/resources/</guid>
+      <guid>https://pre-profedu.netlify.app/resources/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/resources/feature_resources.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://pre-profedu.netlify.app/resources/feature_resources.jpg" />
     </item>
     
     <item>
       <title>Формирование предпрофессиональной образовательной среды в Московском Политехе</title>
-      <link>https://example.org/about/</link>
+      <link>https://pre-profedu.netlify.app/about/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/about/</guid>
+      <guid>https://pre-profedu.netlify.app/about/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/about/feature_mpu.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://pre-profedu.netlify.app/about/feature_mpu.jpg" />
     </item>
     
   </channel>
