@@ -1,22 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Проектная деятельность</title>
+    <title>Проектная деятельность</title>
     <link>http://localhost:1313/blog/</link>
-    <description>Recent content in Blogs on Проектная деятельность</description>
+    <description>Recent content on Проектная деятельность</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <copyright>© 2025 </copyright>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Формирование предпрофессиональной образовательной среды в Московском Политехе 2025 </copyright>
+    <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title></title>
-      <link>http://localhost:1313/blog/article/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Наука для жизни</title>
+      <link>http://localhost:1313/blog/thirdpost/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/article/</guid>
+      <guid>http://localhost:1313/blog/thirdpost/</guid>
       <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/thirdpost/feature_science_for_life-4.jpg" />
+    </item>
+    
+    <item>
+      <title>День открытых дверей</title>
+      <link>http://localhost:1313/blog/secondpost/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
       
+      <guid>http://localhost:1313/blog/secondpost/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/secondpost/feature_dod_mpu-1.jpg" />
+    </item>
+    
+    <item>
+      <title>Национальная-технологическая олимпиада</title>
+      <link>http://localhost:1313/blog/firstpost/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/firstpost/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/firstpost/feature_nto-1.jpg" />
     </item>
     
   </channel>

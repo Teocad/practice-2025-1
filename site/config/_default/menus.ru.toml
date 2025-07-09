@@ -14,16 +14,15 @@
   name = "Журнал"
   pageRef = "Blog"
   weight = 10
-
   [[main]]
   name = "Участники"
   pageRef = "Participants"
-  weight = 20
+  weight = 30
 
   [[main]]
   name = "О проекте"
   pageRef = "About"
-  weight = 30
+  weight = 20
 
   [[main]]
   name = "Ресурсы"
