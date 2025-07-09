@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Проектная деятельность</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://example.org/blog/</link>
     <description>Recent content on Проектная деятельность</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>© Формирование предпрофессиональной образовательной среды в Московском Политехе 2025 </copyright>
-    <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Наука для жизни</title>
-      <link>http://localhost:1313/blog/thirdpost/</link>
+      <link>https://example.org/blog/thirdpost/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/thirdpost/</guid>
+      <guid>https://example.org/blog/thirdpost/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/thirdpost/feature_science_for_life-4.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/blog/thirdpost/feature_science_for_life-4.jpg" />
     </item>
     
     <item>
       <title>День открытых дверей</title>
-      <link>http://localhost:1313/blog/secondpost/</link>
+      <link>https://example.org/blog/secondpost/</link>
       <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/secondpost/</guid>
+      <guid>https://example.org/blog/secondpost/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/secondpost/feature_dod_mpu-1.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/blog/secondpost/feature_dod_mpu-1.jpg" />
     </item>
     
     <item>
       <title>Национальная-технологическая олимпиада</title>
-      <link>http://localhost:1313/blog/firstpost/</link>
+      <link>https://example.org/blog/firstpost/</link>
       <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/firstpost/</guid>
+      <guid>https://example.org/blog/firstpost/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/firstpost/feature_nto-1.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/blog/firstpost/feature_nto-1.jpg" />
     </item>
     
   </channel>
