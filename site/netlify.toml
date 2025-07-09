@@ -2,7 +2,7 @@
 
 [build]
   command = "hugo --gc --minify -b $URL"
-  publish = "public"
+  publish = "site/public"
 
 [build.environment]
   NODE_ENV = "production"
