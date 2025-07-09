@@ -1,9 +1,0 @@
-# netlify.toml
-[build]
-  command = "cd site && hugo --gc --minify -D -b https://pre-profedu.netlify.app/"
-  publish = "public"
-
-[build.environment]
-HUGO_VERSION = "0.142.0"
-HUGO_THEMESDIR = "../.."
-HUGO_THEME = "repo"
